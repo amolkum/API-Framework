@@ -1,0 +1,378 @@
+2023-10-06 15:03:22,921 INFO  [StoreTests] Getting The status code 
+2023-10-06 15:05:07,176 INFO  [StoreTests] Getting The status code 
+2023-10-06 15:06:42,654 INFO  [StoreTests] Getting The status code 
+2023-10-06 15:13:20,117 INFO  [StoreTests] Getting The status code 
+2023-10-06 15:17:36,321 INFO  [SampleTest] Extracted the response 
+2023-10-06 15:17:37,951 INFO  [SampleTest] Extracted the response 
+2023-10-06 15:36:16,871 INFO  [SampleTest] Extracted the response 
+2023-10-06 15:36:18,367 INFO  [SampleTest] Extracted the response 
+2023-10-06 15:51:29,036 INFO  [SampleTest] Extracted the response 
+2023-10-06 15:51:30,533 INFO  [SampleTest] Extracted the response 
+2023-10-09 10:36:39,116 INFO  [SampleTest] Extracted the response 
+2023-10-09 10:49:05,224 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:03:05,697 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:30:53,428 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:35:55,326 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:37:26,369 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:40:22,318 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:45:44,618 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:48:47,295 INFO  [SampleTest] Extracted the response 
+2023-10-09 11:57:54,293 INFO  [SampleTest] Extracted the response 
+2023-10-09 12:38:12,573 INFO  [SampleTest] Extracted the response 
+2023-10-09 13:38:14,263 INFO  [Log] Extracted the response 
+2023-10-09 13:38:15,786 INFO  [Log] Extracted the response 
+2023-10-09 13:39:06,700 INFO  [SampleTest] Extracted the response 
+2023-10-09 13:42:07,423 INFO  [Log] Extracted the response 
+2023-10-09 13:45:19,519 INFO  [Log] Extracted the response 
+2023-10-09 14:24:39,865 INFO  [Log] Extracted the response 
+2023-10-09 18:49:45,634 INFO  [Log] Extracted the response 
+2023-10-09 18:49:47,242 INFO  [Log] Extracted the response 
+2023-10-09 18:56:39,831 INFO  [Log] Extracted the response 
+2023-10-09 18:56:41,509 INFO  [Log] Extracted the response 
+2023-10-10 15:50:23,525 INFO  [Log] Extracted the response 
+2023-10-10 15:50:23,527 INFO  [Log] io.restassured.internal.RestAssuredResponseImpl@12219f6a 
+2023-10-10 15:50:23,530 INFO  [Log] {} 
+2023-10-10 15:50:23,530 INFO  [Log] Date=Tue, 10 Oct 2023 10:21:11 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 15:50:25,119 INFO  [Log] Extracted the response 
+2023-10-10 15:50:25,119 INFO  [Log] io.restassured.internal.RestAssuredResponseImpl@1e40fbb3 
+2023-10-10 15:50:25,120 INFO  [Log] {} 
+2023-10-10 15:50:25,120 INFO  [Log] Date=Tue, 10 Oct 2023 10:21:13 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 16:14:38,845 INFO  [Log] io.restassured.internal.RestAssuredResponseImpl@6d6f6860 
+2023-10-10 16:14:40,513 INFO  [Log] io.restassured.internal.RestAssuredResponseImpl@231cdda8 
+2023-10-10 16:26:26,174 INFO  [StoreTests] Getting The status code 
+2023-10-10 16:26:26,187 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 5,
+    "string": 451,
+    "Updated": 1,
+    "%n%s%n%s%n%s%n%s%n%s": 1,
+    "pending": 3,
+    "available": 219,
+    "peric": 2,
+    "sleep": 1,
+    "AVAILABLE": 4,
+    "Sold": 1,
+    "teststa5": 299,
+    "Unknown": 1,
+    "not available": 1,
+    "Available": 1
+} 
+2023-10-10 16:51:01,976 INFO  [StoreTests] Getting The status code 
+2023-10-10 16:51:01,981 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 9,
+    "string": 616,
+    "test": 1,
+    "Updated": 1,
+    "unavailable": 3,
+    "pending": 7,
+    "available": 311,
+    "ActiveAgent": 1,
+    "peric": 14,
+    "AVAILABLE": 12,
+    "Sold": 1,
+    "Unknown": 2,
+    "not available": 1,
+    "Available": 5,
+    "Pending": 1
+} 
+2023-10-10 16:54:38,288 INFO  [StoreTests] Getting The status code 
+2023-10-10 16:54:38,296 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 9,
+    "op": 1,
+    "string": 608,
+    "Updated": 2,
+    "unavailable": 3,
+    "pending": 6,
+    "available": 310,
+    "available;pending;sold\"": 1,
+    "ActiveAgent": 1,
+    "peric": 18,
+    "AVAILABLE": 12,
+    "Sold": 1,
+    "Unknown": 2,
+    "cat": 1,
+    "not available": 1,
+    "Available": 5,
+    "Pending": 1
+} 
+2023-10-10 16:54:38,296 INFO  [Log]  
+2023-10-10 16:55:56,348 INFO  [StoreTests] Getting The status code 
+2023-10-10 16:55:56,353 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 7,
+    "op": 1,
+    "string": 615,
+    "Updated": 2,
+    "unavailable": 3,
+    "pending": 6,
+    "available": 305,
+    "available;pending;sold\"": 1,
+    "ActiveAgent": 1,
+    "peric": 20,
+    "AVAILABLE": 12,
+    "Sold": 1,
+    "Unknown": 2,
+    "cat": 1,
+    "Available": 5,
+    "Pending": 1
+} 
+2023-10-10 16:55:56,353 INFO  [Log]  
+2023-10-10 16:55:56,353 INFO  [Log] Date=Tue, 10 Oct 2023 11:26:47 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 17:09:32,445 INFO  [StoreTests] Getting The status code 
+2023-10-10 17:09:32,452 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 12,
+    "op": 2,
+    "string": 609,
+    "Updated": 1,
+    "unavailable": 3,
+    "pending": 7,
+    "available": 295,
+    "ActiveAgent": 1,
+    "peric": 23,
+    "adopte": 2,
+    "AVAILABLE": 17,
+    "notavailable": 1,
+    "SOLD": 2,
+    "Unknown": 1,
+    "not available": 1,
+    "Available": 4,
+    "Pending": 1
+} 
+2023-10-10 17:09:32,452 INFO  [Log]  
+2023-10-10 17:09:32,452 INFO  [Log] Date=Tue, 10 Oct 2023 11:40:23 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 17:10:37,502 INFO  [StoreTests] Getting The status code 
+2023-10-10 17:10:37,506 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 11,
+    "op": 2,
+    "string": 606,
+    "Updated": 1,
+    "unavailable": 3,
+    "pending": 5,
+    "available": 300,
+    "ActiveAgent": 1,
+    "peric": 23,
+    "adopte": 5,
+    "AVAILABLE": 14,
+    "notavailable": 1,
+    "SOLD": 2,
+    "Unknown": 1,
+    "not available": 1,
+    "Available": 4,
+    "Pending": 1
+} 
+2023-10-10 17:10:37,506 INFO  [Log]  
+2023-10-10 17:10:37,507 INFO  [Log] Date=Tue, 10 Oct 2023 11:41:28 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 17:39:52,508 INFO  [StoreTests] Getting The status code 
+2023-10-10 17:39:52,513 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 4,
+    "teststa5": 976,
+    "string": 11,
+    "pending": 1,
+    "available": 8
+} 
+2023-10-10 17:39:52,513 INFO  [Log]  
+2023-10-10 17:39:52,513 INFO  [Log] Date=Tue, 10 Oct 2023 12:10:43 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 18:01:44,011 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 18,
+    "teststa5": 651,
+    "string": 224,
+    "woke": 1,
+    "已入住": 1,
+    "pending": 1,
+    "available": 98,
+    "not available": 1
+} 
+2023-10-10 18:01:44,012 INFO  [Log]  
+2023-10-10 18:01:44,012 INFO  [Log] Date=Tue, 10 Oct 2023 12:32:35 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 18:01:44,013 INFO  [Log] GET 
+2023-10-10 18:01:44,013 INFO  [Log] https://petstore.swagger.io/v2/store/inventory 
+2023-10-10 18:09:36,877 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "sold": 3,
+    "string": 11,
+    "available": 986
+} 
+2023-10-10 18:09:36,878 INFO  [Log]  
+2023-10-10 18:09:36,881 INFO  [Log] {} 
+2023-10-10 18:09:36,881 INFO  [Log] Date=Tue, 10 Oct 2023 12:40:28 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Access-Control-Allow-Origin=*
+Access-Control-Allow-Methods=GET, POST, DELETE, PUT
+Access-Control-Allow-Headers=Content-Type, api_key, Authorization
+Server=Jetty(9.2.9.v20150224) 
+2023-10-10 18:09:36,881 INFO  [Log] GET 
+2023-10-10 18:09:36,882 INFO  [Log] https://petstore.swagger.io/v2/store/inventory 
+2023-10-10 18:20:45,396 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-10 18:20:47,010 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "2"
+} 
+2023-10-10 18:22:24,455 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-10 18:22:26,014 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "2"
+} 
+2023-10-10 19:17:09,214 INFO  [StoreTests] Getting The status code 
+2023-10-10 19:22:07,906 INFO  [StoreTests] Getting The status code 
+2023-10-10 19:26:27,073 INFO  [StoreTests] Getting The status code 
+2023-10-10 20:18:49,565 INFO  [Log] Extracted the response 
+2023-10-10 20:20:26,896 INFO  [Log] Extracted the response 
+2023-10-11 12:35:11,901 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 12:35:13,541 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "2"
+} 
+2023-10-11 12:38:15,898 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 12:38:17,664 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 13:50:59,913 INFO  [Log] Extracted the response 
+2023-10-11 13:51:22,054 INFO  [StoreTests] Getting The status code 
+2023-10-11 15:34:32,509 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 15:34:34,040 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 15:35:07,646 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 15:35:09,290 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 18:59:09,301 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 18:59:11,045 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-11 19:12:28,214 INFO  [StoreTests] Getting The status code 
+2023-10-11 23:47:26,965 INFO  [StoreTests] Getting The status code 
+2023-10-12 00:10:39,040 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-12 00:10:41,307 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-12 00:13:39,919 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 
+2023-10-12 00:13:41,732 INFO  [Log] 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "code": 200,
+    "type": "unknown",
+    "message": "1"
+} 

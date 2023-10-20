@@ -1,0 +1,38 @@
+Request method:	POST
+Request URI:	https://petstore.swagger.io/v2/store/order
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "petId": "2",
+    "quantity": "0",
+    "id": "2",
+    "shipDate": "2023-02-20T18:04:57.394Z",
+    "complete": "false",
+    "status": "placed"
+}
+HTTP/1.1 200 OK
+Date: Fri, 13 Oct 2023 08:26:45 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "id": 2,
+    "petId": 2,
+    "quantity": 0,
+    "shipDate": "2023-02-20T18:04:57.394+0000",
+    "status": "placed",
+    "complete": false
+}
